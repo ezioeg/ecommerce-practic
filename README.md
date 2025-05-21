@@ -1,5 +1,4 @@
 # Ecommerce Practic
-
 Ecommerce Practic is a technical test for React Native CLI, where you are required to create a design within a 5-day time limit. The project involves building a navigation system between two or more screens. The Home screen should feature an e-commerce clothing store design, including:
 
 - Input fields
@@ -21,7 +20,6 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
 - A floating bottom tab bar displaying the price and a purchase button
 
 ## Technologies Used
-
 - **React Native**: 0.76.7 version
 - **React**: 18.3.1 version
 - **Lucide Icons**: lucide-react-native
@@ -29,15 +27,13 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
 - **Dropdown**: @react-native-picker/picker
 
 ## Setup
-
-1. Install dependencies
+Install dependencies
 
    ```bash
    npm install
    ```
 
 ## Run
-
 Start the app
 
 ```bash
@@ -45,7 +41,6 @@ Start the app
 ```
 
 ### Run for Android
-
 ```bash
 # using npm
 npm run android
@@ -55,7 +50,6 @@ yarn android
 ```
 
 ### Run for iOS
-
 ```bash
 # using npm
 npm run ios
@@ -65,9 +59,7 @@ yarn ios
 ```
 
 ## Contributions
-
 Contributions are welcome. If you wish to improve the project, please fork it and submit a pull request.
 
 ## Contact
-
 For questions or suggestions, you can contact me at [ezioeg@gmail.com].
