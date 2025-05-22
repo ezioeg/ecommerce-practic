@@ -20,11 +20,14 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
 - A floating bottom tab bar displaying the price and a purchase button
 
 ## Technologies Used
-- **React Native**: 0.76.7 version
-- **React**: 18.3.1 version
-- **Lucide Icons**: lucide-react-native
-- **SVG Icons**: react-native-svg
-- **Dropdown**: @react-native-picker/picker
+### Core
+- [React Native](https://reactnative.dev/) `v0.76.7`
+- [React](https://reactjs.org/) `v18.3.1`
+
+### UI/Styling
+- [Lucide Icons (lucide-react-native)](https://github.com/lucide-icons/lucide-react-native)
+- [SVG Icons (react-native-svg)](https://github.com/react-native-svg/react-native-svg)
+- [Dropdown (@react-native-picker/picker)](https://github.com/react-native-picker/picker)
 
 ## Setup
 Install dependencies
