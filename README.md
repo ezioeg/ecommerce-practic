@@ -25,9 +25,9 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
 - [React](https://reactjs.org/) `v18.3.1`
 
 ### UI/Styling
-- [Lucide Icons (lucide-react-native)](https://github.com/lucide-icons/lucide-react-native)
-- [SVG Icons (react-native-svg)](https://github.com/react-native-svg/react-native-svg)
-- [Dropdown (@react-native-picker/picker)](https://github.com/react-native-picker/picker)
+- [Lucide Icons](https://github.com/lucide-icons/lucide-react-native) `0.475.0`
+- [SVG Icons](https://github.com/react-native-svg/react-native-svg) `15.11.1`
+- [Dropdown](https://github.com/react-native-picker/picker) `2.11.0`
 
 ## Setup
 Install dependencies
