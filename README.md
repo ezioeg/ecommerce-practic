@@ -24,8 +24,8 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
   <summary>📱 Android screenshots</summary>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/4acf7241-923a-44e9-8129-921a11f14479" alt="Android Screenshot 1" width="400"/>
     <img src="https://github.com/user-attachments/assets/be5a0fc9-474b-4386-aaff-1f71827f80fd" alt="Android Screenshot 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/4acf7241-923a-44e9-8129-921a11f14479" alt="Android Screenshot 2" width="400"/>
   </p>
 
 </details>
