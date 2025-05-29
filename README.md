@@ -20,6 +20,26 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
 - A color dropdown
 - A floating bottom tab bar displaying the price and a purchase button
 
+<details>
+  <summary>📱 Android screenshots</summary>
+
+  <p>
+    <img src="https://github.com/user-attachments/assets/4acf7241-923a-44e9-8129-921a11f14479" alt="Android Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/be5a0fc9-474b-4386-aaff-1f71827f80fd" alt="Android Screenshot 2" width="400"/>
+  </p>
+
+</details>
+
+<details>
+  <summary>📱 iOS screenshots</summary>
+
+  <p>
+    <img src="https://github.com/user-attachments/assets/7ed494ab-8236-49be-8a17-65b322923795" alt="iOS Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/7aa46cc5-da8a-49ba-b49f-b85c01ede2ba" alt="iOS Screenshot 2" width="400"/>
+  </p>
+
+</details>
+
 ## Technologies Used
 
 ### Core
