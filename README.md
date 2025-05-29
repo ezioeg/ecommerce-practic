@@ -34,11 +34,12 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
   <summary>📱 iOS screenshots</summary>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/7ed494ab-8236-49be-8a17-65b322923795" alt="iOS Screenshot 1" width="400"/>
-    <img src="https://github.com/user-attachments/assets/7aa46cc5-da8a-49ba-b49f-b85c01ede2ba" alt="iOS Screenshot 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/07c2b044-06ef-40bb-878b-f88408e1f15c" alt="iOS Screenshot 1" width="400"/>
+    <img src="https://github.com/user-attachments/assets/268dacc3-7620-4d17-9a4b-b5163c545b35" alt="iOS Screenshot 2" width="400"/>
   </p>
 
 </details>
+
 
 ## Technologies Used
 
