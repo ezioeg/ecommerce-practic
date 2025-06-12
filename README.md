@@ -1,24 +1,24 @@
-# Ecommerce Practic
+## 🛍️ Ecommerce Practic  
+Technical test project developed with React Native CLI under a 5-day time limit. The goal is to build a navigation system between multiple screens and create a functional ecommerce clothing store design.
 
-Ecommerce Practic is a technical test for React Native CLI, where you are required to create a design within a 5-day time limit. The project involves building a navigation system between two or more screens. The Home screen should feature an e-commerce clothing store design, including:
+### Features  
+- **Home Screen**  
+  - Input fields for search or filters.  
+  - Banner with active dots for featured promotions.  
+  - Scrollable category section.  
+  - Sale timer displaying limited-time offers.  
+  - Scrollable subcategory section.  
+  - Product listings with images and brief info.  
+  - Floating tab bar for easy navigation.
 
-- Input fields
-- A banner with active dots
-- Category scroll
-- A sale timer
-- A subcategory scroll
-- Product listings
-- A floating tab bar
-
-Upon clicking a product, users should be navigated to the Product Detail screen, which includes:
-
-- A header with an image and floating buttons
-- An image scroll within the header, allowing users to click and set the images as the header image
-- Product information
-- Product rating (star)
-- A scrollable list of sizes
-- A color dropdown
-- A floating bottom tab bar displaying the price and a purchase button
+- **Product Detail Screen**  
+  - Header with main image and floating action buttons.  
+  - Image carousel within the header allowing users to select the main header image.  
+  - Detailed product information and description.  
+  - Star-based product rating.  
+  - Scrollable list of available sizes.  
+  - Dropdown menu for selecting product colors.  
+  - Floating bottom tab bar showing product price and purchase button.
 
 <details>
   <summary>📱 Android screenshots</summary>
