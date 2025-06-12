@@ -50,9 +50,9 @@ Upon clicking a product, users should be navigated to the Product Detail screen,
 
 ### UI/Styling
 
-- [Lucide Icons](https://github.com/lucide-icons/lucide-react-native) `0.475.0`
-- [SVG Icons](https://github.com/react-native-svg/react-native-svg) `15.11.1`
-- [Dropdown](https://github.com/react-native-picker/picker) `2.11.0`
+- [Lucide Icons](https://github.com/lucide-icons/lucide-react-native) `v0.475.0`
+- [SVG Icons](https://github.com/react-native-svg/react-native-svg) `v15.11.1`
+- [Dropdown](https://github.com/react-native-picker/picker) `v2.11.0`
 
 ## Setup
 
