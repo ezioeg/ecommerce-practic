@@ -2,7 +2,7 @@
 Technical test project developed with React Native CLI under a 5-day time limit. The goal is to build a navigation system between multiple screens and create a functional ecommerce clothing store design.
 
 ### Features  
-- **Home Screen**  
+- **Home**  
   - Input fields for search or filters.  
   - Banner with active dots for featured promotions.  
   - Scrollable category section.  
@@ -11,7 +11,7 @@ Technical test project developed with React Native CLI under a 5-day time limit.
   - Product listings with images and brief info.  
   - Floating tab bar for easy navigation.
 
-- **Product Detail Screen**  
+- **Product Details**  
   - Header with main image and floating action buttons.  
   - Image carousel within the header allowing users to select the main header image.  
   - Detailed product information and description.  
@@ -24,8 +24,8 @@ Technical test project developed with React Native CLI under a 5-day time limit.
   <summary>📱 Android screenshots</summary>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/be5a0fc9-474b-4386-aaff-1f71827f80fd" alt="Android Screenshot 2" width="400"/>
-    <img src="https://github.com/user-attachments/assets/4acf7241-923a-44e9-8129-921a11f14479" alt="Android Screenshot 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/be5a0fc9-474b-4386-aaff-1f71827f80fd" alt="Android Home" width="400"/>
+    <img src="https://github.com/user-attachments/assets/4acf7241-923a-44e9-8129-921a11f14479" alt="Android Product Details" width="400"/>
   </p>
 
 </details>
@@ -34,8 +34,8 @@ Technical test project developed with React Native CLI under a 5-day time limit.
   <summary>📱 iOS screenshots</summary>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/07c2b044-06ef-40bb-878b-f88408e1f15c" alt="iOS Screenshot 1" width="400"/>
-    <img src="https://github.com/user-attachments/assets/268dacc3-7620-4d17-9a4b-b5163c545b35" alt="iOS Screenshot 2" width="400"/>
+    <img src="https://github.com/user-attachments/assets/07c2b044-06ef-40bb-878b-f88408e1f15c" alt="iOS Home" width="400"/>
+    <img src="https://github.com/user-attachments/assets/268dacc3-7620-4d17-9a4b-b5163c545b35" alt="iOS Product Details" width="400"/>
   </p>
 
 </details>
